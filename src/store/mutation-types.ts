@@ -1,0 +1,5 @@
+export const SET_INITIAL_STATE = 'APP/SET_INITIAL_STATE';
+
+// user
+export const SET_USER_DETAIL = 'USER/SET_USER_DETAIL';
+export const SET_USER_LOADING = 'USER/SET_USER_LOADING';
